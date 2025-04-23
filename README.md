@@ -68,8 +68,3 @@ Future Improvements
 
 Author
 Gabriel
-```
-
-This README provides clear instructions on how to run the project, explains the revamp, and includes an example for better understanding. Let me know if you'd like to add anything else!
-
-Similar code found with 1 license type
